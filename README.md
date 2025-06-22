@@ -27,6 +27,9 @@ A repository of my notes and study-guides across technical topics in Quantitativ
 - Relational Databases
 
 ## HPC/Computer Science
+- Operating Systems
+- C++ for financial engineering
+- Multithreading / Concurrency in C++
 
 ## Finance / Quantitative Finance Topics
 - Fixed Income Securities
