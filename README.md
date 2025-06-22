@@ -4,6 +4,7 @@ A repository of my notes and study-guides across technical topics in Quantitativ
 # Topics
 
 ## Probability and Statistics
+- 1. 
 
 ## Applied Mathematics
 
