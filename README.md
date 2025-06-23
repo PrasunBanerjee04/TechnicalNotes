@@ -4,7 +4,7 @@ A repository of my notes and study-guides across technical topics in Quantitativ
 # Topics
 
 ## Probability and Statistics
-- Probability fundamentals
+- Probability
 - Mathematical Statistics
 - Statistical Learning
 - Stochastic Processes
