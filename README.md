@@ -8,13 +8,15 @@ A repository of my notes and study-guides across technical topics in Quantitativ
 - Mathematical Statistics
 - Statistical Learning
 - Stochastic Processes
+- Econometric Analysis
+- Forecasting and Time=Series
 
 ## Applied Mathematics
 - Calculus
 - Linear Algebra
 - Differential Equations / PDEs
 - Combinatorics
-- Optimization
+- Optimization / Linear Programming
 - Numerical Methods
 
 ## Machine Learning 
