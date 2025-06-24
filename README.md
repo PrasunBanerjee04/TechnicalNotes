@@ -9,7 +9,7 @@ A repository of my notes and study-guides across technical topics in Quantitativ
 - Statistical Learning
 - Stochastic Processes
 - Econometric Analysis
-- Forecasting and Time=Series
+- Forecasting and Time-Series
 
 ## Applied Mathematics
 - Calculus
