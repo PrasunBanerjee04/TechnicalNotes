@@ -1,5 +1,5 @@
 # TechnicalNotes
-A repository of my notes and study-guides across technical topics in Quantitative/Computational Finance, Machine Learning, Mathematics and Statistics, etc.
+A repository of my notes and study-guides across technical topics in Quantitative/Computational Finance, Machine Learning, Mathematics and Statistics, etc. The documents here are not entirely self-contained but can be helpful for a recap or quick overview of the subject.
 
 # Topics
 
