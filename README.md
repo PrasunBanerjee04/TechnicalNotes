@@ -16,7 +16,7 @@ A repository of my notes and study-guides across technical topics in Quantitativ
 - Linear Algebra
 - Differential Equations / PDEs
 - Combinatorics
-- Optimization / Linear Programming
+- Optimization
 - Numerical Methods
 
 ## Machine Learning 
