@@ -26,9 +26,10 @@ A repository of my notes and study-guides across technical topics in Quantitativ
 
 ## Data Science Tools
 - Data Analysis in Python (NumPy, Pandas)
-- Relational Databases
+- Relational Databases and SQL
 
 ## HPC/Computer Science
+- Data Structures and Algorithms 
 - Operating Systems
 - C++ for financial engineering
 - Multithreading / Concurrency in C++
