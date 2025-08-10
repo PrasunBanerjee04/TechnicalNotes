@@ -1,0 +1,4 @@
+# Ignore all CSV files
+*.csv
+# Ignore all PNG files
+*.png
